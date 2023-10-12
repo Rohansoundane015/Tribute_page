@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 10px 10px 10px 10px;
+}
+.body1{
+    background-color: rgb(206, 214, 220);
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+
+
+}
+.img-div{
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 50%;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+#img-para{
+    padding-top: 13px;
+    text-align: center;
+}
+#data1{
+    text-align: center;
+    padding-top: 10px;
+}
+#head-div
+{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+#head-div1
+{
+    text-align: center;
+    padding-top: 10px;
+}
+.record-div{
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+
+}
+.bold{
+    font-weight: bold;
+}
+.flex-div{
+    display: flex;
+    justify-content:flex-start;
+    vertical-align: text-bottom;
+    
+}
+#li-para{
+    padding-bottom: 30px;
+    margin-left: 10px;    
+}
+.font-div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 20px;
+}
+#last-para{
+    padding-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.link-div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
